@@ -1,0 +1,51 @@
+body {
+   background-color:black;
+ 	border: 4px solid #6E3CBC;
+	border-radius: 4px;
+	margin-left: 100px;
+	margin-right: 100px;
+	font-family: Arial
+
+		}
+hr {
+	color:purple;
+	width: 600px;
+	height: 10px;
+	margin: 40px;
+	}
+
+	a.hello:link {
+	color: white;
+	text-decoration: none;
+	}
+
+	
+
+	h4 {
+		color: #ff91f4;
+		font-size:30px ;
+	}
+
+   .bro {
+		color: #94c7e0;
+		font-family: Lucida Conssole;
+		font-size: 200%;
+	}
+
+	.content {
+	max-width: 1000px;
+	margin: 	auto;
+	}
+
+	.buttons {
+	border: 3px dashed #ff0000;
+	background-color:blue;
+	}
+
+a.navLinks:link, a.navLinks:visited {
+	background-color: #c6a2db;
+	border: 2px solid #b376d6;
+	text-decoration: none;
+	padding: 10px 20px;
+	margin: 50px;
+}
